@@ -1,0 +1,28 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin_bottom_button_sortear">130dp</dimen>
+    <dimen name="margin_bottom_button_embaralhar">66dp</dimen>
+    <dimen name="et_margin_bottom">70dp</dimen>
+    <dimen name="iv_wigth_and_heigth">100dp</dimen>
+    <dimen name="iv_wigth_and_heigth_splash_screen">200dp</dimen>
+    <dimen name="iv_margin_bottom">59dp</dimen>
+    <dimen name="bt_layout_width">120dp</dimen>
+    <dimen name="margin_top_image_view">100dp</dimen>
+    <dimen name="margin_top_tv_como_jogar">20dp</dimen>
+    <dimen name="como_jogar_activity_text_size">40dp</dimen>
+    <dimen name="text_size_and_margin_bottom_tvs_como_jogar">20dp</dimen>
+    <dimen name="layout_height_relative">215dp</dimen>
+    <dimen name="tv_layout_marginLeft">8dp</dimen>
+    <dimen name="tv_about_title_size">40dp</dimen>
+    <dimen name="tv_t1_text_size">20dp</dimen>
+    <dimen name="tv_t1_margin_top">90dp</dimen>
+    <dimen name="tv_t2_text_size">18dp</dimen>
+    <dimen name="tv_t2_margin_top">109dp</dimen>
+    <dimen name="tv_t3_text_size">18dp</dimen>
+    <dimen name="tv_t3_margin_top">160dp</dimen>
+    <dimen name="tv_t4_text_size">18dp</dimen>
+    <dimen name="tv_t4_margin_top">179dp</dimen>
+    <dimen name="elevation_layout_sobre">8dp</dimen>
+</resources>

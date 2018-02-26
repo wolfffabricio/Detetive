@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Detetive</string>
+    <string name="sortear">Pegar papel</string>
+    <string name="embaralhar">Embaralhar</string>
+    <string name="et_hint">Quantas pessoas vão jogar?</string>
+    <string name="et_setError_number_players">"Digite o número de jogadores e tente novamente"</string>
+    <string name="et_amount_minimum_players">"Quantidade mínima de jogadores: 3."</string>
+    <string name="assassino">"Assassino"</string>
+    <string name="detetive">"Detetive"</string>
+    <string name="vitima">"Vítima"</string>
+    <string name="papeis_embaralhados">"Papeis embaralhados"</string>
+    <string name="como_jogar">"Como Jogar?"</string>
+    <string name="como_jogar_activity_text">"Como Jogar:"</string>
+    <string name="explicacao_p1">"Um grupo forma um círculo e cada jogador sorteia um papel. Em um dos papéis está escrito \"assassino\" e, em outro, \"detetive\". Nos demais, está escrito \"vítima\"."</string>
+    <string name="explicacao_p2">"A função do assassino é matar todas as vítimas dando uma piscada para elas, de forma que o detetive não perceba. Quando o assassino pisca para uma vítima, ela deve dizer \"morri\"."</string>
+    <string name="explicacao_p3">"A função do detetive é descobrir quem é o assassino. Se descobrir quem ele é, deve dizer \"preso em nome da lei\"."</string>
+    <string name="explicacao_p4">"A brincadeira acaba quando todas as vítimas morrem ou quando o assassino é preso. Aí, é feito um novo sorteio."</string>
+    <string name="dots_sobre">Sobre</string>
+    <string name="tv_about_title">Detetive</string>
+    <string name="tv_t1_about_text">Aplicativo Detetive 2016</string>
+    <string name="tv_t2_about_text">Versão 1.0</string>
+    <string name="tv_t3_about_text">Desenvolvido por Fabrício Wolff</string>
+    <string name="tv_t4_about_text">fabricionewnj@hotmail.com</string>
+</resources>

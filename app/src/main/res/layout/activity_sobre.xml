@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/layout_height_relative"
+    android:background="@color/background_splash_screen"
+    android:elevation="@dimen/elevation_layout_sobre"
+    tools:context="com.example.gocode.detetive.activites.SobreActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/about_title"
+        android:text="@string/tv_about_title"
+        android:textColor="@color/et_text_color"
+        android:textSize="@dimen/tv_about_title_size"
+        android:textStyle="bold"
+        android:layout_marginLeft="@dimen/tv_layout_marginLeft"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/about_t1"
+        android:text="@string/tv_t1_about_text"
+        android:textColor="@color/et_text_color"
+        android:textSize="@dimen/tv_t1_text_size"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/tv_t1_margin_top"
+        android:layout_marginLeft="@dimen/tv_layout_marginLeft"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/about_t2"
+        android:text="@string/tv_t2_about_text"
+        android:textColor="@color/tv_about_text_color"
+        android:textSize="@dimen/tv_t2_text_size"
+        android:layout_marginTop="@dimen/tv_t2_margin_top"
+        android:layout_marginLeft="@dimen/tv_layout_marginLeft"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/about_t3"
+        android:text="@string/tv_t3_about_text"
+        android:textColor="@color/et_text_color"
+        android:textSize="@dimen/tv_t3_text_size"
+        android:layout_marginTop="@dimen/tv_t3_margin_top"
+        android:layout_marginLeft="@dimen/tv_layout_marginLeft"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/about_t4"
+        android:text="@string/tv_t4_about_text"
+        android:textColor="@color/tv_about_text_color"
+        android:textSize="@dimen/tv_t4_text_size"
+        android:layout_marginTop="@dimen/tv_t4_margin_top"
+        android:layout_marginLeft="@dimen/tv_layout_marginLeft"/>
+
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#666666</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="et_color_hint">#BDBDBD</color>
+    <color name="et_text_color">#FFFFFF</color>
+    <color name="background_splash_screen">#666666</color>
+    <color name="tv_about_text_color">#BDBDBD</color>
+</resources>
